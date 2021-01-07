@@ -1,6 +1,5 @@
 package main
- import "github.com/PacktPublishing/
- chapter1/bytestrings"
+ import "github.com/PacktPublishi/"
  func main() {
  err := bytestrings.WorkWithBuffer()
  if err != nil {
