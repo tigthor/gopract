@@ -33,4 +33,5 @@ package bytestrings
  for scanner.Scan() {
  fmt.Print(scanner.Text())
  }
- 
+ return nil
+ }
