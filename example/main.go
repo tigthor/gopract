@@ -1,5 +1,5 @@
 package main
- import "github.com/tigthor/gopract/bytestrings"
+ import "bytestrings"
  func main() {
  err := bytestrings.WorkWithBuffer()
  if err != nil {
