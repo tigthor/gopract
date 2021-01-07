@@ -1,5 +1,5 @@
 package main
- import "github.com/PacktPublishi/"
+ import "github.com/tigthor/gopract"
  func main() {
  err := bytestrings.WorkWithBuffer()
  if err != nil {
